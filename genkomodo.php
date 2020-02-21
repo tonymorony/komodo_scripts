@@ -127,8 +127,9 @@ $coins = Array(
  	Array("name" => "GAME", "PUBKEY_ADDRESS" => 38, "SECRET_KEY" => 166),
 	Array("name" => "HUSH", "PUBKEY_ADDRESS" => Array(0x1C,0xB8), "SECRET_KEY" => 0x80),
  	Array("name" => "EMC2", "PUBKEY_ADDRESS" => 33, "SECRET_KEY" => 176),
-    Array("name" => "GIN", "PUBKEY_ADDRESS" => 38, "SECRET_KEY" => 198),
-    Array("name" => "SUQA", "PUBKEY_ADDRESS" => 63, "SECRET_KEY" => 191),
+        Array("name" => "GIN", "PUBKEY_ADDRESS" => 38, "SECRET_KEY" => 198),
+        Array("name" => "SUQA", "PUBKEY_ADDRESS" => 63, "SECRET_KEY" => 191),
+	Array("name" => "ARYA", "PUBKEY_ADDRESS" => 23, "SECRET_KEY" => 176)
 );
 
 $k = hash("sha256", $passphrase);
